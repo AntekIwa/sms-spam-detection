@@ -1,4 +1,4 @@
-# SMS Spam Detection 📄
+# SMS Spam Detection
 A machine learning project for classifying SMS messages as spam or ham using Logistic Regression.
 
 ## Project Overview
